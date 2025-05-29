@@ -1,346 +1,400 @@
 [
   {
-    "_id": "1",
+    "_id": "2e55b9bd-65c0-4edd-ab2b-6b677b2fb84e",
     "ask": {
-      "term": "What is your favorite hobby?",
-      "definition": "Sở thích yêu thích của bạn là gì?",
+      "term": "What do you do for a living?",
+      "definition": "Bạn làm nghề gì?",
       "audio": {
-        "public_id": "uploads/2N61RneJ4qcgEmFk3Xuqe.mp3",
-        "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2F2N61RneJ4qcgEmFk3Xuqe.mp3"
+        "public_id": "speaking_scripts/7-VivMuloQJhmLdQ_ill7.mp3",
+        "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2F7-VivMuloQJhmLdQ_ill7.mp3"
       }
     },
     "replies": [
       {
-        "_id": "1a028b91-3a89-4aeb-92c0-879f693b7ee6",
-        "term": "My favorite hobby is reading.",
-        "definition": "Sở thích yêu thích của tôi là đọc sách.",
+        "_id": "ddd4dac5-f1e0-473b-8938-43efad361213",
+        "term": "I’m a teacher at a local school.",
+        "definition": "Tôi là giáo viên tại một trường học địa phương.",
         "audio": {
-          "public_id": "uploads/PfoFHHi3AqsApR1mOUzYk.mp3",
-          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2FPfoFHHi3AqsApR1mOUzYk.mp3"
+          "public_id": "speaking_scripts/gs2fuygQfZUdugAjl6yU3.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2Fgs2fuygQfZUdugAjl6yU3.mp3"
         }
       },
       {
-        "_id": "5b84dac3-0ee0-4877-9c1d-c7fb5857e861",
-        "term": "I enjoy playing basketball.",
-        "definition": "Tôi thích chơi bóng rổ.",
+        "_id": "bc393b29-036d-48e8-804d-90353e6f43a4",
+        "term": "I’m a doctor at a nearby hospital.",
+        "definition": "Tôi là bác sĩ tại một bệnh viện gần đây.",
         "audio": {
-          "public_id": "speaking_scripts/ruaLLh_8Rche4jQMt2XrG.MP3",
-          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FruaLLh_8Rche4jQMt2XrG.MP3"
+          "public_id": "speaking_scripts/sWgGu_akoVVPuzdcLmSP4.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FsWgGu_akoVVPuzdcLmSP4.mp3"
         }
       },
       {
-        "_id": "26134d43-8eb4-41d3-8653-9cdde36c3d3b",
-        "term": "I really enjoy playing guitar",
-        "definition": "Tôi rất thích chơi guitar.",
+        "_id": "ca5f9b7e-2997-4fce-b327-91fcd2d1f16c",
+        "term": "I’m a lawyer at a law firm.",
+        "definition": "Tôi là luật sư tại một công ty luật.",
         "audio": {
-          "public_id": "speaking_scripts/NIw06DjYipij3H6G9R1dH.mp3",
-          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FNIw06DjYipij3H6G9R1dH.mp3"
-        }
-      },
-      {
-        "_id": "4c555c16-a896-48b0-bfce-6972377d0dd5",
-        "term": "My favorite hobby is cooking.",
-        "definition": "Sở thích của tôi là nấu ăn.",
-        "audio": {
-          "public_id": "speaking_scripts/8vuXCsgmeSa2dUK1ixPWV.mp3",
-          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2F8vuXCsgmeSa2dUK1ixPWV.mp3"
+          "public_id": "speaking_scripts/H-fF2nxXwAp0B0ckUFh3X.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FH-fF2nxXwAp0B0ckUFh3X.mp3"
         }
       }
     ]
   },
   {
-    "_id": "2",
+    "_id": "aa94d3e7-e6b3-47ed-8392-b4770daa083f",
     "ask": {
-      "term": "How often do you practice your hobby?",
-      "definition": "Bạn thực hành sở thích của mình thường xuyên như thế nào?",
+      "term": "What kind of job would you like to have?",
+      "definition": "Bạn muốn có công việc gì?",
       "audio": {
-        "public_id": "uploads/gkIg1csbGE1EeUGfPLS4l.mp3",
-        "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2FgkIg1csbGE1EeUGfPLS4l.mp3"
+        "public_id": "speaking_scripts/_QyK2RpkjOe0kxkVbyS9F.mp3",
+        "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2F_QyK2RpkjOe0kxkVbyS9F.mp3"
       }
     },
     "replies": [
       {
-        "_id": "eac04d9f-7d04-4413-b295-9e6770b2fed7",
-        "term": "I read every day.",
-        "definition": "Tôi đọc mỗi ngày.",
+        "_id": "57c380a2-a200-4c9e-a676-5ee97830af2e",
+        "term": "I would like to be a teacher at a university.",
+        "definition": "Tôi muốn trở thành giáo viên tại một trường đại học.",
         "audio": {
-          "public_id": "uploads/bLyYUIf-MS88b8ySqNJ_S.mp3",
-          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2FbLyYUIf-MS88b8ySqNJ_S.mp3"
+          "public_id": "speaking_scripts/nY0JaT0SvklUvwQa80saD.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FnY0JaT0SvklUvwQa80saD.mp3"
         }
       },
       {
-        "_id": "c3122730-4e48-424c-839b-04a136ce2bee",
-        "term": "I play basketball on weekends.",
-        "definition": "Tôi chơi bóng rổ vào cuối tuần.",
+        "_id": "fd216a0a-901f-4528-b789-bd4842ddacaf",
+        "term": "I would like to be a doctor in a private clinic.",
+        "definition": "Tôi muốn trở thành bác sĩ tại một phòng khám tư.",
         "audio": {
-          "public_id": "uploads/KSqKqObX2hodCey5WaNDx.mp3",
-          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2FKSqKqObX2hodCey5WaNDx.mp3"
+          "public_id": "speaking_scripts/Uf0IDCz_jZtQwuzHQaIiT.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FUf0IDCz_jZtQwuzHQaIiT.mp3"
         }
       },
       {
-        "_id": "c650cf49-21bd-4781-85a3-574b42e518a3",
-        "term": "I practice it every day.",
-        "definition": "Tôi luyện tập nó mỗi ngày",
+        "_id": "396d0853-b774-4550-881a-5ce391a5e092",
+        "term": "I would like to be a lawyer at a big law firm.",
+        "definition": "Tôi muốn trở thành luật sư tại một công ty luật lớn.",
         "audio": {
-          "public_id": "speaking_scripts/vOpEv9MR89YlFqzURKr5C.mp3",
-          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FvOpEv9MR89YlFqzURKr5C.mp3"
-        }
-      },
-      {
-        "_id": "a58f5b8d-fe59-4b1e-bd54-568801f8bae2",
-        "term": "I practice a few times a week.",
-        "definition": "Tôi luyện tập vài lần mỗi tuần",
-        "audio": {
-          "public_id": "speaking_scripts/PiwNBGKHeSlDiA0IyUj3E.mp3",
-          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FPiwNBGKHeSlDiA0IyUj3E.mp3"
+          "public_id": "speaking_scripts/apT299q3IKXlVmceDicaL.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FapT299q3IKXlVmceDicaL.mp3"
         }
       }
     ]
   },
   {
-    "_id": "3",
+    "_id": "c315a973-4d43-4a15-88e6-7865b7b1f04a",
     "ask": {
-      "term": "Why do you like this hobby?",
-      "definition": "Tại sao bạn lại thích sở thích này?",
+      "term": "Where do you work?",
+      "definition": "I work at a school as a teacher.",
       "audio": {
-        "public_id": "uploads/JsRVK1QP4cZ_QaP0qpAMR.mp3",
-        "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2FJsRVK1QP4cZ_QaP0qpAMR.mp3"
+        "public_id": "speaking_scripts/rqL_prJlz3DMiTsa-Himl.mp3",
+        "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FrqL_prJlz3DMiTsa-Himl.mp3"
       }
     },
     "replies": [
       {
-        "_id": "89f3a8ef-62d5-4537-a1b0-3af1f50d6c2d",
-        "term": "Reading helps me relax.",
-        "definition": "Đọc sách giúp tôi thư giãn.",
+        "_id": "ae9aa46c-626f-475e-8ce7-65579dbf0b00",
+        "term": "I work at a school as a teacher.",
+        "definition": "Tôi làm việc ở một trường học với tư cách là giáo viên.",
         "audio": {
-          "public_id": "uploads/1neXDV1PBwHtlpT6nMG5F.mp3",
-          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2F1neXDV1PBwHtlpT6nMG5F.mp3"
+          "public_id": "speaking_scripts/lNe9kbx_cnBtrsv7w3J7G.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FlNe9kbx_cnBtrsv7w3J7G.mp3"
         }
       },
       {
-        "_id": "1783ca6e-9ef5-480d-926e-c3a1f9f81953",
-        "term": "It helps me relieve stress.",
-        "definition": "Nó giúp tôi giảm căng thẳng.",
+        "_id": "a6646060-8c4a-464f-896d-3152d1db3db0",
+        "term": "I work at a hospital as a doctor.",
+        "definition": "Tôi làm việc ở bệnh viện với tư cách là bác sĩ.",
         "audio": {
-          "public_id": "speaking_scripts/0Q8wsOhPTcuoLNMrFo84T.mp3",
-          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2F0Q8wsOhPTcuoLNMrFo84T.mp3"
+          "public_id": "speaking_scripts/OFw94akzGyrr9-2Rwcl8G.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FOFw94akzGyrr9-2Rwcl8G.mp3"
+        }
+      },
+      {
+        "_id": "8be6545e-d6c2-4992-baad-53ac407c5a2a",
+        "term": "I work at a law firm as a lawyer.",
+        "definition": "Tôi làm việc ở công ty luật với tư cách là luật sư",
+        "audio": {
+          "public_id": "speaking_scripts/MRKoXzOzGJJs2iBh95su1.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FMRKoXzOzGJJs2iBh95su1.mp3"
         }
       }
     ]
   },
   {
-    "_id": "4",
+    "_id": "08189f24-e800-4964-9558-6cb163ee84a7",
     "ask": {
-      "term": "Do you prefer outdoor or indoor hobbies?",
-      "definition": "Bạn thích sở thích ngoài trời hay trong nhà?",
+      "term": "How long have you been working at your current job?",
+      "definition": "Bạn đã làm công việc hiện tại bao lâu?",
       "audio": {
-        "public_id": "uploads/sc26eOdmDRoJq5zzBV6er.mp3",
-        "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2Fsc26eOdmDRoJq5zzBV6er.mp3"
+        "public_id": "speaking_scripts/JA5CQt4IRdgppOTWpX1I-.mp3",
+        "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FJA5CQt4IRdgppOTWpX1I-.mp3"
       }
     },
     "replies": [
       {
-        "_id": "fe48ee67-130b-4fba-81b7-2c8624f4dae0",
-        "term": "I prefer outdoor hobbies.",
-        "definition": "Tôi thích sở thích ngoài trời.",
+        "_id": "48a8fff9-a7ac-430a-9def-8eccf85f8fda",
+        "term": "I have been working as a teacher for five years.",
+        "definition": "Tôi đã làm giáo viên được năm năm.",
         "audio": {
-          "public_id": "speaking_scripts/tvrILUaUcdof4oet4albg.mp3",
-          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FtvrILUaUcdof4oet4albg.mp3"
+          "public_id": "speaking_scripts/AN9rct1cXWAT_dohBHazV.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FAN9rct1cXWAT_dohBHazV.mp3"
         }
       },
       {
-        "_id": "68635c6c-860e-42d4-95b6-e2c530713c72",
-        "term": "I enjoy indoor hobbies more.",
-        "definition": "Tôi thích sở thích trong nhà hơn.",
+        "_id": "fbebdd28-a808-430b-8140-6fc21073e7b8",
+        "term": "I have been working as a doctor for six years.",
+        "definition": "Tôi đã làm bác sĩ được sáu năm.",
         "audio": {
-          "public_id": "uploads/7W-SXiUKwBRHTg467CpFW.mp3",
-          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2F7W-SXiUKwBRHTg467CpFW.mp3"
+          "public_id": "speaking_scripts/fLlKZD5AaMvrTRxwV83do.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FfLlKZD5AaMvrTRxwV83do.mp3"
+        }
+      },
+      {
+        "_id": "225c84a1-d733-4987-8ce8-13b0696ef23d",
+        "term": "I have been working as a lawyer for eight years.",
+        "definition": "Tôi đã làm luật sư được tám năm.",
+        "audio": {
+          "public_id": "speaking_scripts/LQ2fNOEzxirX7lAheSQXy.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FLQ2fNOEzxirX7lAheSQXy.mp3"
         }
       }
     ]
   },
   {
-    "_id": "5",
+    "_id": "a579561c-b014-4ed3-a551-fdc1f2a91e29",
     "ask": {
-      "term": "Do you think your hobby helps you develop new skills?",
-      "definition": "Bạn có nghĩ rằng sở thích của bạn giúp bạn phát triển kỹ năng mới không?",
+      "term": "Do you enjoy your job?",
+      "definition": "Bạn có thích công việc của mình không?",
       "audio": {
-        "public_id": "uploads/5pzbr-XQBFAXVSPPVxS4P.mp3",
-        "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2F5pzbr-XQBFAXVSPPVxS4P.mp3"
+        "public_id": "speaking_scripts/QcpvwqVIErhPlWLuBufMe.mp3",
+        "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FQcpvwqVIErhPlWLuBufMe.mp3"
       }
     },
     "replies": [
       {
-        "_id": "00d798c5-86b0-41c8-b1be-8d5f2f98cdee",
-        "term": "Yes, it helps me improve my focus.",
-        "definition": "Vâng, nó giúp tôi cải thiện khả năng tập trung.",
+        "_id": "42776887-da1e-460b-856a-7d12faea98b9",
+        "term": "Yes, I really enjoy being a teacher and helping students.",
+        "definition": "Có, tôi thực sự thích làm giáo viên và giúp đỡ học sinh.",
         "audio": {
-          "public_id": "uploads/TKIVQ352jlk-Ta3cylEBZ.mp3",
-          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2FTKIVQ352jlk-Ta3cylEBZ.mp3"
+          "public_id": "speaking_scripts/Y5HjnNtC69gtYW--kJap5.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FY5HjnNtC69gtYW--kJap5.mp3"
         }
       },
       {
-        "_id": "163a4d3f-b6d8-4ee9-a760-fc80b9b146ad",
-        "term": "Not really, but it's still fun and relaxing.",
-        "definition": "Không hẳn, nhưng nó vẫn thú vị và giúp tôi thư giãn.",
+        "_id": "67f4a1c1-09c8-4490-ae34-8caef63d7642",
+        "term": "Yes, I really enjoy being a doctor and saving lives.",
+        "definition": "Có, tôi thực sự thích làm bác sĩ và cứu sống bệnh nhân.",
         "audio": {
-          "public_id": "speaking_scripts/nKLua2SbM1T90vyLH6Pyz.mp3",
-          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FnKLua2SbM1T90vyLH6Pyz.mp3"
+          "public_id": "speaking_scripts/qzhKSPYEMpN6nzhGqdw3K.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FqzhKSPYEMpN6nzhGqdw3K.mp3"
+        }
+      },
+      {
+        "_id": "a23f3a41-56a0-4cf2-96ef-f3835a7595f5",
+        "term": "Yes, I really enjoy being a lawyer and solving legal cases.",
+        "definition": "Có, tôi thực sự thích làm luật sư và giải quyết các vụ án pháp lý.",
+        "audio": {
+          "public_id": "speaking_scripts/RjSfDpmReB-20PyXEE9Rz.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FRjSfDpmReB-20PyXEE9Rz.mp3"
         }
       }
     ]
   },
   {
-    "_id": "6",
+    "_id": "498b7dd1-23db-4403-8187-85a5d38b49da",
     "ask": {
-      "term": "Do you prefer solo hobbies or group activities?",
-      "definition": "Bạn thích sở thích một mình hay các hoạt động nhóm?",
+      "term": "What do you like about your job?",
+      "definition": "Bạn thích gì về công việc của mình?",
       "audio": {
-        "public_id": "uploads/1S5vEdD40gvGmeosxTZIM.mp3",
-        "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2F1S5vEdD40gvGmeosxTZIM.mp3"
+        "public_id": "speaking_scripts/WwsznJc04p7__BfzD9Tmi.mp3",
+        "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FWwsznJc04p7__BfzD9Tmi.mp3"
       }
     },
     "replies": [
       {
-        "_id": "51a52231-06f0-461e-bf4f-fae34f9cb785",
-        "term": "I prefer solo hobbies.",
-        "definition": "Tôi thích sở thích một mình.",
+        "_id": "429d6f13-d0cc-4228-8a19-c269c25b333d",
+        "term": "I like teaching because I can inspire students to learn.",
+        "definition": "Tôi thích dạy học vì tôi có thể truyền cảm hứng cho học sinh.",
         "audio": {
-          "public_id": "speaking_scripts/RrDhTi_dJ6jvoMgtGvG6j.MP3",
-          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FRrDhTi_dJ6jvoMgtGvG6j.MP3"
+          "public_id": "speaking_scripts/MxJgLGQDfs60hh82gpVRt.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FMxJgLGQDfs60hh82gpVRt.mp3"
         }
       },
       {
-        "_id": "c46b6664-702f-44ea-8d98-3a885d854e07",
-        "term": "I enjoy group activities more.",
-        "definition": "Tôi thích các hoạt động nhóm hơn.",
+        "_id": "358a7e24-4416-4b59-8c51-5000d8262074",
+        "term": "I like being a doctor because I get to help people every day.",
+        "definition": "Tôi thích làm bác sĩ vì tôi có thể giúp đỡ mọi người mỗi ngày.",
         "audio": {
-          "public_id": "uploads/E2-G5Vdqms0taMooLMlAv.mp3",
-          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2FE2-G5Vdqms0taMooLMlAv.mp3"
+          "public_id": "speaking_scripts/DPl9pnXD7sKu9ITzLZJx6.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FDPl9pnXD7sKu9ITzLZJx6.mp3"
+        }
+      },
+      {
+        "_id": "69a344a6-72fa-4c26-9b64-112b88963d97",
+        "term": "I like being a lawyer because I get to solve important legal issues.",
+        "definition": "Tôi thích làm luật sư vì tôi có thể giải quyết các vấn đề pháp lý quan trọng.",
+        "audio": {
+          "public_id": "speaking_scripts/HayulvwqoJ2PjP3EDVR1F.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FHayulvwqoJ2PjP3EDVR1F.mp3"
         }
       }
     ]
   },
   {
-    "_id": "7",
+    "_id": "d643b723-8f15-42f2-9583-f7dd533adc7f",
     "ask": {
-      "term": "Have you ever tried a new hobby recently?",
-      "definition": "Bạn có thử sở thích mới gần đây không?",
+      "term": "Do you have a lot of responsibilities in your job?",
+      "definition": "Bạn có nhiều trách nhiệm trong công việc không?",
       "audio": {
-        "public_id": "uploads/_e1CYfNVcN6JHnDozHoLP.mp3",
-        "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2F_e1CYfNVcN6JHnDozHoLP.mp3"
+        "public_id": "speaking_scripts/_ccdUnWZyNkQg35J1_4QL.mp3",
+        "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2F_ccdUnWZyNkQg35J1_4QL.mp3"
       }
     },
     "replies": [
       {
-        "_id": "8c050782-c080-4d12-808e-fbf9175e7a16",
-        "term": "Yes, I recently started learning to cook.",
-        "definition": "Vâng, tôi mới bắt đầu học nấu ăn.",
+        "_id": "4b2c3ebf-84fc-449c-b018-12a89b516cb2",
+        "term": "Yes, as a teacher, I have many responsibilities like grading papers.",
+        "definition": "Có, là giáo viên, tôi có nhiều trách nhiệm như chấm điểm bài thi.",
         "audio": {
-          "public_id": "uploads/EEaY9etwnXcWI1n9zhIwM.mp3",
-          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2FEEaY9etwnXcWI1n9zhIwM.mp3"
+          "public_id": "speaking_scripts/HAhC0f--SDw3jJESNfXlY.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FHAhC0f--SDw3jJESNfXlY.mp3"
         }
       },
       {
-        "_id": "f86e0955-c4c0-45ec-8693-76a26caa0663",
-        "term": "No, I’ve been sticking to my usual hobbies.",
-        "definition": "Không, tôi vẫn duy trì sở thích bình thường.",
+        "_id": "82204796-8cc8-43b1-a700-0d83b7c5dead",
+        "term": "Yes, as a doctor, I have many responsibilities such as diagnosing patients.",
+        "definition": "Có, là bác sĩ, tôi có nhiều trách nhiệm như chẩn đoán bệnh nhân.",
         "audio": {
-          "public_id": "uploads/h737nehpJn5lVB4lkwVIQ.mp3",
-          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2Fh737nehpJn5lVB4lkwVIQ.mp3"
+          "public_id": "speaking_scripts/YljZ4Puh5L2tIakPpATVO.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FYljZ4Puh5L2tIakPpATVO.mp3"
+        }
+      },
+      {
+        "_id": "29293cb2-1f20-4683-9f96-9d06601aa450",
+        "term": "Yes, as a lawyer, I have many responsibilities such as preparing cases.",
+        "definition": "Có, là luật sư, tôi có nhiều trách nhiệm như chuẩn bị các vụ án.",
+        "audio": {
+          "public_id": "speaking_scripts/7nPFHR9t15d2ufLeCM-y6.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2F7nPFHR9t15d2ufLeCM-y6.mp3"
         }
       }
     ]
   },
   {
-    "_id": "8",
+    "_id": "f04c14f7-78c8-42da-9dc4-452bd5460015",
     "ask": {
-      "term": "What do you feel when you do your hobby?",
-      "definition": "Bạn cảm thấy như thế nào khi làm sở thích của mình?",
+      "term": "What skills are important for your job?",
+      "definition": "Kỹ năng nào quan trọng đối với công việc của bạn?",
       "audio": {
-        "public_id": "uploads/xyaBg9nJJ9FAtWMrSDB_c.mp3",
-        "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2FxyaBg9nJJ9FAtWMrSDB_c.mp3"
+        "public_id": "speaking_scripts/PNOi1qBBywE5Lonh5Ebzr.mp3",
+        "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FPNOi1qBBywE5Lonh5Ebzr.mp3"
       }
     },
     "replies": [
       {
-        "_id": "a9cb8d79-d08b-4e30-a5c1-9277cc669058",
-        "term": "I feel relaxed and happy.",
-        "definition": "Tôi cảm thấy thư giãn và vui vẻ.",
+        "_id": "8b0aea3f-c2df-438c-a386-cb6f2212f5df",
+        "term": "As a teacher, communication skills are very important.",
+        "definition": "Là giáo viên, kỹ năng giao tiếp rất quan trọng.",
         "audio": {
-          "public_id": "uploads/tHEYy3JtWYwp7AMMj1Eks.mp3",
-          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2FtHEYy3JtWYwp7AMMj1Eks.mp3"
+          "public_id": "speaking_scripts/GH-rfnOliJxIgTmMLNtkz.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FGH-rfnOliJxIgTmMLNtkz.mp3"
         }
       },
       {
-        "_id": "2588be92-0819-4693-9a44-c416a8d89afe",
-        "term": "It helps me clear my mind.",
-        "definition": "Nó giúp tôi làm sáng tỏ tâm trí.",
+        "_id": "17462b02-6c23-4a65-8821-f943943092fa",
+        "term": "As a doctor, medical knowledge and patient care are crucial.",
+        "definition": "Là bác sĩ, kiến thức y khoa và chăm sóc bệnh nhân là rất quan trọng.",
         "audio": {
-          "public_id": "uploads/9rtEVteZ3KZ1MOaXTVxlk.mp3",
-          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2F9rtEVteZ3KZ1MOaXTVxlk.mp3"
+          "public_id": "speaking_scripts/oYreWbnd095VH-xEbuQMt.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FoYreWbnd095VH-xEbuQMt.mp3"
+        }
+      },
+      {
+        "_id": "6d8af610-bbd4-43cd-921c-bbf15883c3d1",
+        "term": "As a lawyer, strong analytical skills and attention to detail are essential.",
+        "definition": "Là luật sư, kỹ năng phân tích mạnh mẽ và sự chú ý đến chi tiết là rất quan trọng.",
+        "audio": {
+          "public_id": "speaking_scripts/xvZy8KixycyxzAF_YALdc.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FxvZy8KixycyxzAF_YALdc.mp3"
         }
       }
     ]
   },
   {
-    "_id": "9",
+    "_id": "a3ca9d2f-7e5e-44e8-a1e1-ec5151d09741",
     "ask": {
-      "term": "Do you spend money on your hobby?",
-      "definition": "Bạn có chi tiền cho sở thích của mình không?",
+      "term": "What is your favorite part of your job?",
+      "definition": "Miền nào trong công việc của bạn là phần yêu thích nhất?",
       "audio": {
-        "public_id": "uploads/jVyASpePvIdVLBdV09GZ2.mp3",
-        "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2FjVyASpePvIdVLBdV09GZ2.mp3"
+        "public_id": "speaking_scripts/Y6hwL4-aBRJfTBzpTt3qV.mp3",
+        "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FY6hwL4-aBRJfTBzpTt3qV.mp3"
       }
     },
     "replies": [
       {
-        "_id": "016ec007-7904-4ada-8d35-7de18ba9d465",
-        "term": "Yes, I buy books or equipment for my hobby.",
-        "definition": "Vâng, tôi mua sách hoặc thiết bị cho sở thích của mình.",
+        "_id": "3189a19f-993c-47a3-b6cd-69e4118bf196",
+        "term": "My favorite part of teaching is seeing students succeed.",
+        "definition": "Phần yêu thích nhất của tôi khi làm giáo viên là thấy học sinh thành công.",
         "audio": {
-          "public_id": "uploads/etzHLpboiPxG70njT5YY0.mp3",
-          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2FetzHLpboiPxG70njT5YY0.mp3"
+          "public_id": "speaking_scripts/r7oYJTDdWrCu-Mrgvffsr.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2Fr7oYJTDdWrCu-Mrgvffsr.mp3"
         }
       },
       {
-        "_id": "0779e6cf-5a93-4b64-ae53-e257bb02fe6a",
-        "term": "No, I try to do it without spending money.",
-        "definition": "Không, tôi cố gắng làm mà không tiêu tiền.",
+        "_id": "c10d0f35-5b22-4e3f-9a45-79ced4bd1ee7",
+        "term": "My favorite part of being a doctor is helping patients recover.",
+        "definition": "Phần yêu thích nhất khi làm bác sĩ là giúp bệnh nhân phục hồi sức khỏe.",
         "audio": {
-          "public_id": "uploads/CUoZGsPrFoJLE8etTardz.mp3",
-          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2FCUoZGsPrFoJLE8etTardz.mp3"
+          "public_id": "speaking_scripts/mprcYvAsbMsTsUCHccfQb.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FmprcYvAsbMsTsUCHccfQb.mp3"
+        }
+      },
+      {
+        "_id": "95108506-390a-4d84-bda6-50e0099ed6a7",
+        "term": "My favorite part of being a lawyer is winning cases for clients.",
+        "definition": "Phần yêu thích nhất khi làm luật sư là chiến thắng các vụ án cho khách hàng.",
+        "audio": {
+          "public_id": "speaking_scripts/tR17pCLl7jsbBLLSXdNvl.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FtR17pCLl7jsbBLLSXdNvl.mp3"
         }
       }
     ]
   },
   {
-    "_id": "10",
+    "_id": "cc9b5265-e476-4eeb-8ce8-44e4928c0771",
     "ask": {
-      "term": "Would you recommend your hobby to others?",
-      "definition": "Bạn có giới thiệu sở thích của mình cho người khác không?",
+      "term": "What’s the most challenging part of your job?",
+      "definition": "Phần khó khăn nhất trong công việc của bạn là gì?",
       "audio": {
-        "public_id": "uploads/iAIH_v0clp8nvcoYSoeFB.mp3",
-        "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2FiAIH_v0clp8nvcoYSoeFB.mp3"
+        "public_id": "speaking_scripts/fKY5W_gqFTD_jWnAbPBJ5.mp3",
+        "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FfKY5W_gqFTD_jWnAbPBJ5.mp3"
       }
     },
     "replies": [
       {
-        "_id": "f64107eb-33c9-4108-bd06-e3945fc9220c",
-        "term": "Yes, it’s a great hobby to try.",
-        "definition": "Vâng, đó là một sở thích tuyệt vời để thử.",
+        "_id": "1a4728a2-aa87-49bc-a6f3-6613a1fe407f",
+        "term": "The most challenging part of teaching is managing a large class.",
+        "definition": "Phần khó khăn nhất khi làm giáo viên là quản lý một lớp học đông.",
         "audio": {
-          "public_id": "uploads/2tiLVqjV-PgUs3xNlewgI.mp3",
-          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2F2tiLVqjV-PgUs3xNlewgI.mp3"
+          "public_id": "speaking_scripts/drpx7xy0_nOkv3a0CJOfJ.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2Fdrpx7xy0_nOkv3a0CJOfJ.mp3"
         }
       },
       {
-        "_id": "e0283a1f-90e3-4fec-87a3-82574964a9b0",
-        "term": "Maybe, if they are interested in it.",
-        "definition": "Có thể, nếu họ quan tâm đến nó.",
+        "_id": "c437624e-10d4-4956-9e66-529a8144b15b",
+        "term": "The most challenging part of being a doctor is handling emergency situations.",
+        "definition": "Phần khó khăn nhất khi làm bác sĩ là xử lý các tình huống khẩn cấp.",
         "audio": {
-          "public_id": "speaking_scripts/6eOn3SAAQyXIdH5-nY6Em.mp3",
-          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2F6eOn3SAAQyXIdH5-nY6Em.mp3"
+          "public_id": "speaking_scripts/VKEjw-K8EEFnSXEme_xD4.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FVKEjw-K8EEFnSXEme_xD4.mp3"
+        }
+      },
+      {
+        "_id": "2f57e5e5-0a00-4138-8f0b-30184dc8c61e",
+        "term": "The most challenging part of being a lawyer is preparing complex cases.",
+        "definition": "Phần khó khăn nhất khi làm luật sư là chuẩn bị các vụ án phức tạp.",
+        "audio": {
+          "public_id": "speaking_scripts/pI7r_a8_2xzvpf9Uv786P.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FpI7r_a8_2xzvpf9Uv786P.mp3"
         }
       }
     ]

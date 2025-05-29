@@ -4,7 +4,7 @@ import requests
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # Tạo thư mục nếu chưa có
-os.makedirs("ask", exist_ok=True)
+os.makedirs("asks", exist_ok=True)
 os.makedirs("replies", exist_ok=True)
 
 # Đọc dữ liệu JSON
