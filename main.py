@@ -1,50 +1,47 @@
 import os
 import json
 import requests
-from concurrent.futures import ThreadPoolExecutor, as_completed
+from concurrent.futures import ThreadPoolExecutor
 
-# Tạo thư mục nếu chưa có
-os.makedirs("asks", exist_ok=True)
-os.makedirs("replies", exist_ok=True)
-
-# Đọc dữ liệu JSON
+# Đọc dữ liệu JSON từ file
 with open("data.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
+# Tạo thư mục lưu
+ask_dir = "asks"
+reply_dir = "replies"
+os.makedirs(ask_dir, exist_ok=True)
+os.makedirs(reply_dir, exist_ok=True)
+
+# Danh sách công việc để tải
+download_jobs = []
+
+# Tạo danh sách job download cho asks và replies
+for i, item in enumerate(data, start=1):
+    ask_url = item.get("ask", {}).get("audio", {}).get("url")
+    if ask_url:
+        ask_filename = os.path.join(ask_dir, f"ask-{i}.mp3")
+        download_jobs.append((ask_url, ask_filename))
+
+    for j, reply in enumerate(item.get("replies", []), start=1):
+        reply_url = reply.get("audio", {}).get("url")
+        if reply_url:
+            reply_filename = os.path.join(reply_dir, f"ask-{i}-reply-{j}.mp3")
+            download_jobs.append((reply_url, reply_filename))
+
 # Hàm tải file
-def download_audio(task):
-    url, save_path = task
+def download_audio(url, filename):
     try:
-        r = requests.get(url, timeout=10)
-        r.raise_for_status()
-        with open(save_path, "wb") as f:
-            f.write(r.content)
-        return f"✅ Tải xong: {save_path}"
+        headers = {"User-Agent": "Mozilla/5.0"}
+        response = requests.get(url, headers=headers, timeout=10)
+        response.raise_for_status()
+        with open(filename, "wb") as f:
+            f.write(response.content)
+        print(f"✅ Tải xong: {filename}")
     except Exception as e:
-        return f"❌ Lỗi tải {url}: {e}"
+        print(f"❌ Lỗi khi tải {filename} từ {url}: {e}")
 
-# Tạo danh sách các nhiệm vụ tải
-tasks = []
-
-for item in data:
-    ask_id = item["_id"]
-
-    # Thêm nhiệm vụ tải cho câu hỏi
-    ask_audio_url = item["ask"]["audio"]["url"]
-    ask_save_path = os.path.join("ask", f"{ask_id}.mp3")
-    tasks.append((ask_audio_url, ask_save_path))
-
-    # Thêm nhiệm vụ tải cho các câu trả lời
-    for reply in item["replies"]:
-        reply_id = reply["_id"]
-        reply_audio_url = reply["audio"]["url"]
-        reply_save_path = os.path.join("replies", f"{ask_id}_{reply_id}.mp3")
-        tasks.append((reply_audio_url, reply_save_path))
-
-# Dùng ThreadPoolExecutor để tải đa luồng
-MAX_THREADS = 10  # Có thể điều chỉnh tùy tốc độ mạng
-with ThreadPoolExecutor(max_workers=MAX_THREADS) as executor:
-    future_to_task = {executor.submit(download_audio, task): task for task in tasks}
-    for future in as_completed(future_to_task):
-        print(future.result())
+# Tải đa luồng
+with ThreadPoolExecutor(max_workers=10) as executor:
+    executor.map(lambda job: download_audio(*job), download_jobs)
 
