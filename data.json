@@ -1,0 +1,348 @@
+[
+  {
+    "_id": "1",
+    "ask": {
+      "term": "What is your favorite hobby?",
+      "definition": "Sở thích yêu thích của bạn là gì?",
+      "audio": {
+        "public_id": "uploads/2N61RneJ4qcgEmFk3Xuqe.mp3",
+        "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2F2N61RneJ4qcgEmFk3Xuqe.mp3"
+      }
+    },
+    "replies": [
+      {
+        "_id": "1a028b91-3a89-4aeb-92c0-879f693b7ee6",
+        "term": "My favorite hobby is reading.",
+        "definition": "Sở thích yêu thích của tôi là đọc sách.",
+        "audio": {
+          "public_id": "uploads/PfoFHHi3AqsApR1mOUzYk.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2FPfoFHHi3AqsApR1mOUzYk.mp3"
+        }
+      },
+      {
+        "_id": "5b84dac3-0ee0-4877-9c1d-c7fb5857e861",
+        "term": "I enjoy playing basketball.",
+        "definition": "Tôi thích chơi bóng rổ.",
+        "audio": {
+          "public_id": "speaking_scripts/ruaLLh_8Rche4jQMt2XrG.MP3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FruaLLh_8Rche4jQMt2XrG.MP3"
+        }
+      },
+      {
+        "_id": "26134d43-8eb4-41d3-8653-9cdde36c3d3b",
+        "term": "I really enjoy playing guitar",
+        "definition": "Tôi rất thích chơi guitar.",
+        "audio": {
+          "public_id": "speaking_scripts/NIw06DjYipij3H6G9R1dH.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FNIw06DjYipij3H6G9R1dH.mp3"
+        }
+      },
+      {
+        "_id": "4c555c16-a896-48b0-bfce-6972377d0dd5",
+        "term": "My favorite hobby is cooking.",
+        "definition": "Sở thích của tôi là nấu ăn.",
+        "audio": {
+          "public_id": "speaking_scripts/8vuXCsgmeSa2dUK1ixPWV.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2F8vuXCsgmeSa2dUK1ixPWV.mp3"
+        }
+      }
+    ]
+  },
+  {
+    "_id": "2",
+    "ask": {
+      "term": "How often do you practice your hobby?",
+      "definition": "Bạn thực hành sở thích của mình thường xuyên như thế nào?",
+      "audio": {
+        "public_id": "uploads/gkIg1csbGE1EeUGfPLS4l.mp3",
+        "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2FgkIg1csbGE1EeUGfPLS4l.mp3"
+      }
+    },
+    "replies": [
+      {
+        "_id": "eac04d9f-7d04-4413-b295-9e6770b2fed7",
+        "term": "I read every day.",
+        "definition": "Tôi đọc mỗi ngày.",
+        "audio": {
+          "public_id": "uploads/bLyYUIf-MS88b8ySqNJ_S.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2FbLyYUIf-MS88b8ySqNJ_S.mp3"
+        }
+      },
+      {
+        "_id": "c3122730-4e48-424c-839b-04a136ce2bee",
+        "term": "I play basketball on weekends.",
+        "definition": "Tôi chơi bóng rổ vào cuối tuần.",
+        "audio": {
+          "public_id": "uploads/KSqKqObX2hodCey5WaNDx.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2FKSqKqObX2hodCey5WaNDx.mp3"
+        }
+      },
+      {
+        "_id": "c650cf49-21bd-4781-85a3-574b42e518a3",
+        "term": "I practice it every day.",
+        "definition": "Tôi luyện tập nó mỗi ngày",
+        "audio": {
+          "public_id": "speaking_scripts/vOpEv9MR89YlFqzURKr5C.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FvOpEv9MR89YlFqzURKr5C.mp3"
+        }
+      },
+      {
+        "_id": "a58f5b8d-fe59-4b1e-bd54-568801f8bae2",
+        "term": "I practice a few times a week.",
+        "definition": "Tôi luyện tập vài lần mỗi tuần",
+        "audio": {
+          "public_id": "speaking_scripts/PiwNBGKHeSlDiA0IyUj3E.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FPiwNBGKHeSlDiA0IyUj3E.mp3"
+        }
+      }
+    ]
+  },
+  {
+    "_id": "3",
+    "ask": {
+      "term": "Why do you like this hobby?",
+      "definition": "Tại sao bạn lại thích sở thích này?",
+      "audio": {
+        "public_id": "uploads/JsRVK1QP4cZ_QaP0qpAMR.mp3",
+        "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2FJsRVK1QP4cZ_QaP0qpAMR.mp3"
+      }
+    },
+    "replies": [
+      {
+        "_id": "89f3a8ef-62d5-4537-a1b0-3af1f50d6c2d",
+        "term": "Reading helps me relax.",
+        "definition": "Đọc sách giúp tôi thư giãn.",
+        "audio": {
+          "public_id": "uploads/1neXDV1PBwHtlpT6nMG5F.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2F1neXDV1PBwHtlpT6nMG5F.mp3"
+        }
+      },
+      {
+        "_id": "1783ca6e-9ef5-480d-926e-c3a1f9f81953",
+        "term": "It helps me relieve stress.",
+        "definition": "Nó giúp tôi giảm căng thẳng.",
+        "audio": {
+          "public_id": "speaking_scripts/0Q8wsOhPTcuoLNMrFo84T.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2F0Q8wsOhPTcuoLNMrFo84T.mp3"
+        }
+      }
+    ]
+  },
+  {
+    "_id": "4",
+    "ask": {
+      "term": "Do you prefer outdoor or indoor hobbies?",
+      "definition": "Bạn thích sở thích ngoài trời hay trong nhà?",
+      "audio": {
+        "public_id": "uploads/sc26eOdmDRoJq5zzBV6er.mp3",
+        "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2Fsc26eOdmDRoJq5zzBV6er.mp3"
+      }
+    },
+    "replies": [
+      {
+        "_id": "fe48ee67-130b-4fba-81b7-2c8624f4dae0",
+        "term": "I prefer outdoor hobbies.",
+        "definition": "Tôi thích sở thích ngoài trời.",
+        "audio": {
+          "public_id": "speaking_scripts/tvrILUaUcdof4oet4albg.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FtvrILUaUcdof4oet4albg.mp3"
+        }
+      },
+      {
+        "_id": "68635c6c-860e-42d4-95b6-e2c530713c72",
+        "term": "I enjoy indoor hobbies more.",
+        "definition": "Tôi thích sở thích trong nhà hơn.",
+        "audio": {
+          "public_id": "uploads/7W-SXiUKwBRHTg467CpFW.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2F7W-SXiUKwBRHTg467CpFW.mp3"
+        }
+      }
+    ]
+  },
+  {
+    "_id": "5",
+    "ask": {
+      "term": "Do you think your hobby helps you develop new skills?",
+      "definition": "Bạn có nghĩ rằng sở thích của bạn giúp bạn phát triển kỹ năng mới không?",
+      "audio": {
+        "public_id": "uploads/5pzbr-XQBFAXVSPPVxS4P.mp3",
+        "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2F5pzbr-XQBFAXVSPPVxS4P.mp3"
+      }
+    },
+    "replies": [
+      {
+        "_id": "00d798c5-86b0-41c8-b1be-8d5f2f98cdee",
+        "term": "Yes, it helps me improve my focus.",
+        "definition": "Vâng, nó giúp tôi cải thiện khả năng tập trung.",
+        "audio": {
+          "public_id": "uploads/TKIVQ352jlk-Ta3cylEBZ.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2FTKIVQ352jlk-Ta3cylEBZ.mp3"
+        }
+      },
+      {
+        "_id": "163a4d3f-b6d8-4ee9-a760-fc80b9b146ad",
+        "term": "Not really, but it's still fun and relaxing.",
+        "definition": "Không hẳn, nhưng nó vẫn thú vị và giúp tôi thư giãn.",
+        "audio": {
+          "public_id": "speaking_scripts/nKLua2SbM1T90vyLH6Pyz.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FnKLua2SbM1T90vyLH6Pyz.mp3"
+        }
+      }
+    ]
+  },
+  {
+    "_id": "6",
+    "ask": {
+      "term": "Do you prefer solo hobbies or group activities?",
+      "definition": "Bạn thích sở thích một mình hay các hoạt động nhóm?",
+      "audio": {
+        "public_id": "uploads/1S5vEdD40gvGmeosxTZIM.mp3",
+        "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2F1S5vEdD40gvGmeosxTZIM.mp3"
+      }
+    },
+    "replies": [
+      {
+        "_id": "51a52231-06f0-461e-bf4f-fae34f9cb785",
+        "term": "I prefer solo hobbies.",
+        "definition": "Tôi thích sở thích một mình.",
+        "audio": {
+          "public_id": "speaking_scripts/RrDhTi_dJ6jvoMgtGvG6j.MP3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2FRrDhTi_dJ6jvoMgtGvG6j.MP3"
+        }
+      },
+      {
+        "_id": "c46b6664-702f-44ea-8d98-3a885d854e07",
+        "term": "I enjoy group activities more.",
+        "definition": "Tôi thích các hoạt động nhóm hơn.",
+        "audio": {
+          "public_id": "uploads/E2-G5Vdqms0taMooLMlAv.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2FE2-G5Vdqms0taMooLMlAv.mp3"
+        }
+      }
+    ]
+  },
+  {
+    "_id": "7",
+    "ask": {
+      "term": "Have you ever tried a new hobby recently?",
+      "definition": "Bạn có thử sở thích mới gần đây không?",
+      "audio": {
+        "public_id": "uploads/_e1CYfNVcN6JHnDozHoLP.mp3",
+        "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2F_e1CYfNVcN6JHnDozHoLP.mp3"
+      }
+    },
+    "replies": [
+      {
+        "_id": "8c050782-c080-4d12-808e-fbf9175e7a16",
+        "term": "Yes, I recently started learning to cook.",
+        "definition": "Vâng, tôi mới bắt đầu học nấu ăn.",
+        "audio": {
+          "public_id": "uploads/EEaY9etwnXcWI1n9zhIwM.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2FEEaY9etwnXcWI1n9zhIwM.mp3"
+        }
+      },
+      {
+        "_id": "f86e0955-c4c0-45ec-8693-76a26caa0663",
+        "term": "No, I’ve been sticking to my usual hobbies.",
+        "definition": "Không, tôi vẫn duy trì sở thích bình thường.",
+        "audio": {
+          "public_id": "uploads/h737nehpJn5lVB4lkwVIQ.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2Fh737nehpJn5lVB4lkwVIQ.mp3"
+        }
+      }
+    ]
+  },
+  {
+    "_id": "8",
+    "ask": {
+      "term": "What do you feel when you do your hobby?",
+      "definition": "Bạn cảm thấy như thế nào khi làm sở thích của mình?",
+      "audio": {
+        "public_id": "uploads/xyaBg9nJJ9FAtWMrSDB_c.mp3",
+        "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2FxyaBg9nJJ9FAtWMrSDB_c.mp3"
+      }
+    },
+    "replies": [
+      {
+        "_id": "a9cb8d79-d08b-4e30-a5c1-9277cc669058",
+        "term": "I feel relaxed and happy.",
+        "definition": "Tôi cảm thấy thư giãn và vui vẻ.",
+        "audio": {
+          "public_id": "uploads/tHEYy3JtWYwp7AMMj1Eks.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2FtHEYy3JtWYwp7AMMj1Eks.mp3"
+        }
+      },
+      {
+        "_id": "2588be92-0819-4693-9a44-c416a8d89afe",
+        "term": "It helps me clear my mind.",
+        "definition": "Nó giúp tôi làm sáng tỏ tâm trí.",
+        "audio": {
+          "public_id": "uploads/9rtEVteZ3KZ1MOaXTVxlk.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2F9rtEVteZ3KZ1MOaXTVxlk.mp3"
+        }
+      }
+    ]
+  },
+  {
+    "_id": "9",
+    "ask": {
+      "term": "Do you spend money on your hobby?",
+      "definition": "Bạn có chi tiền cho sở thích của mình không?",
+      "audio": {
+        "public_id": "uploads/jVyASpePvIdVLBdV09GZ2.mp3",
+        "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2FjVyASpePvIdVLBdV09GZ2.mp3"
+      }
+    },
+    "replies": [
+      {
+        "_id": "016ec007-7904-4ada-8d35-7de18ba9d465",
+        "term": "Yes, I buy books or equipment for my hobby.",
+        "definition": "Vâng, tôi mua sách hoặc thiết bị cho sở thích của mình.",
+        "audio": {
+          "public_id": "uploads/etzHLpboiPxG70njT5YY0.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2FetzHLpboiPxG70njT5YY0.mp3"
+        }
+      },
+      {
+        "_id": "0779e6cf-5a93-4b64-ae53-e257bb02fe6a",
+        "term": "No, I try to do it without spending money.",
+        "definition": "Không, tôi cố gắng làm mà không tiêu tiền.",
+        "audio": {
+          "public_id": "uploads/CUoZGsPrFoJLE8etTardz.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2FCUoZGsPrFoJLE8etTardz.mp3"
+        }
+      }
+    ]
+  },
+  {
+    "_id": "10",
+    "ask": {
+      "term": "Would you recommend your hobby to others?",
+      "definition": "Bạn có giới thiệu sở thích của mình cho người khác không?",
+      "audio": {
+        "public_id": "uploads/iAIH_v0clp8nvcoYSoeFB.mp3",
+        "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2FiAIH_v0clp8nvcoYSoeFB.mp3"
+      }
+    },
+    "replies": [
+      {
+        "_id": "f64107eb-33c9-4108-bd06-e3945fc9220c",
+        "term": "Yes, it’s a great hobby to try.",
+        "definition": "Vâng, đó là một sở thích tuyệt vời để thử.",
+        "audio": {
+          "public_id": "uploads/2tiLVqjV-PgUs3xNlewgI.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads%2F2tiLVqjV-PgUs3xNlewgI.mp3"
+        }
+      },
+      {
+        "_id": "e0283a1f-90e3-4fec-87a3-82574964a9b0",
+        "term": "Maybe, if they are interested in it.",
+        "definition": "Có thể, nếu họ quan tâm đến nó.",
+        "audio": {
+          "public_id": "speaking_scripts/6eOn3SAAQyXIdH5-nY6Em.mp3",
+          "url": "https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/speaking_scripts%2F6eOn3SAAQyXIdH5-nY6Em.mp3"
+        }
+      }
+    ]
+  }
+]
